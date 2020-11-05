@@ -221,7 +221,13 @@
 			"settings": {
 				"foreground": "#BBBBBB"
 			}
-		},
+        },
+        {
+            "scope": "meta.brace.round.js",
+            "settings": {
+                "foreground": "#FEDF1D"
+            }
+        },
 		{
 			"name": "Language methods",
 			"scope": [
@@ -241,7 +247,7 @@
 				"fontStyle": "italic",
 				"foreground": "#BBBBBB"
 			}
-		},
+        },
 		{
 			"name": "meta.method.js",
 			"scope": [
