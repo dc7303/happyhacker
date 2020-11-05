@@ -1,0 +1,21 @@
+{
+    "name": "happyhacker",
+    "displayName": "happyhacker",
+    "description": "haker theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "happyhacker",
+                "uiTheme": "hc-black",
+                "path": "./themes/happyhacker-color-theme.json"
+            }
+        ]
+    }
+}
